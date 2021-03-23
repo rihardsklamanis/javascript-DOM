@@ -6,7 +6,7 @@
 
 > How did you go about selecting the DOM elements to hide? Describe the "contract" for that function.
 
-Your reply here...
+No html dokumenta paņēmu hide_me klases elementus
 
 ---
 
